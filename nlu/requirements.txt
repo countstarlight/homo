@@ -66,7 +66,7 @@ pymongo==3.8.0
 pyparsing==2.4.0
 PySocks==1.7.0
 python-dateutil==2.8.0
-python-engineio==3.5.1
+python-engineio==3.8.2.post1
 python-socketio==3.1.2
 python-telegram-bot==11.1.0
 pytz==2018.9
