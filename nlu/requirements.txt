@@ -92,7 +92,7 @@ termcolor==1.1.0
 terminaltables==3.1.0
 tqdm==4.32.1
 twilio==6.27.0
-Twisted==19.2.0
+Twisted==19.7.0
 typing==3.6.6
 tzlocal==1.5.1
 urllib3==1.25.2
